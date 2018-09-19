@@ -2,4 +2,8 @@ Khởi tao test.txt tại master
 
 Đã làm xong task1. Đã sửa theo yêu cầu test1
 
+
 develop đã sửa
+
+Tiếp tục sửa task1, trong khi nhánh develop cũng đã sửa
+
