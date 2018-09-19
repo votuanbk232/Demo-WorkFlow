@@ -1,1 +1,3 @@
 Khởi tao test.txt tại master
+
+Đã làm xong task1. Đã sửa theo yêu cầu test1
